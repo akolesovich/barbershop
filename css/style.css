@@ -1,3 +1,7 @@
 body {
 	background: maroon;
 }
+p {
+	width: 300px;
+	height: 40px;
+	color: white;}
